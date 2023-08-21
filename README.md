@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**AlexandreBitelo/AlexandreBitelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/AlexandreBitelo/AlexandreBitelo/assets/142456940/a8c9410d-9351-495b-a5db-77b76fb129f0)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## Sobre mim 🖥️
+
+<p>
+texto pesssoal 
+  
+</p>
+
