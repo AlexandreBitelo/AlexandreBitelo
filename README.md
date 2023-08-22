@@ -13,7 +13,7 @@
 <p>
 Olá! 👋 
   <br></br>
-<----> Eu sou o Alexandre Bitelo, um entusiasta da programação de 18 anos. Apesar de ser novo nisso, já estou me aventurando no mundo da codificação com JavaScript e Python, criando pequenos projetos para consolidar meu aprendizado. Minha natureza comunicativa me leva a adorar interações e colaborações, e estou ansioso para participar de comunidades online para aprender e contribuir. Sou aberto a desafios e acredito que minha paixão por jogos, música e arte complementa minha abordagem criativa para a resolução de problemas. No GitHub, pretendo documentar minha jornada de crescimento como desenvolvedor, e estou aberto a novas conexões e colaborações emocionantes.
+<!--->Eu sou o Alexandre Bitelo, um entusiasta da programação de 18 anos. Apesar de ser novo nisso, já estou me aventurando no mundo da codificação com JavaScript e Python, criando pequenos projetos para consolidar meu aprendizado. Minha natureza comunicativa me leva a adorar interações e colaborações, e estou ansioso para participar de comunidades online para aprender e contribuir. Sou aberto a desafios e acredito que minha paixão por jogos, música e arte complementa minha abordagem criativa para a resolução de problemas. No GitHub, pretendo documentar minha jornada de crescimento como desenvolvedor, e estou aberto a novas conexões e colaborações emocionantes.
   
 </p>
 
