@@ -17,7 +17,10 @@ Olá! 👋
 </p>
 
 ## Linguagens
-
+<img height = "110em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img height = "110em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+          
+          
+          
 
 
 ## Redes sociais do Bitelo
