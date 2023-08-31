@@ -41,3 +41,12 @@ Olá! 👋
   <img height = "110em" src = "https://github-readme-stats.vercel.app/api?username=AlexandreBitelo&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark">
 
 </p>
+
+
+
+
+
+<!--
+[![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-0A0A23?style=for-the-badge&logo=FreeCodeCamp&logoColor=white&link=https://www.freecodecamp.org/melvinaguilar)](https://www.freecodecamp.org/melvinaguilar)&nbsp;
+[![nome](url)&nbsp;
+
