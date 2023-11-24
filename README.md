@@ -27,7 +27,7 @@ Olá! 👋
 
 <div align = "middle" colspan> 
 
-  <nav><a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target=https://www.instagram.com/biteloalexandre></a></nav> &nbsp;&nbsp;&nbsp;&nbsp;
+  <nav><a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" [Instagram]target="https://www.instagram.com/biteloalexandre"></a></nav> &nbsp;&nbsp;&nbsp;&nbsp;
 
   <nav><a href = "mailto: alexandrebitelo41@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></nav>&nbsp;&nbsp;&nbsp;&nbsp;
  
